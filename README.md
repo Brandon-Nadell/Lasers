@@ -1,5 +1,5 @@
 # Lasers
-Proof-of-concept for a game that uses lasers, mirrors, and lenses
+Proof-of-concept for a game that uses lasers, mirrors, and lenses. \n
 Controls:
 M - create new mirror (reflects lasers)
 L - create new lens (converges lasers)
